@@ -441,10 +441,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32a92d90ed409af4f8590cc6065e2088, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _template: {fileID: 8590639644892629268, guid: 9f6528591fa846d468962b5d43ef467a, type: 3}
+  _template: {fileID: 2113010043031346432, guid: 9f6528591fa846d468962b5d43ef467a, type: 3}
   _spawns:
-  - {fileID: 8304111}
-  - {fileID: 123658743}
+  - {fileID: 8304112}
+  - {fileID: 123658744}
 --- !u!1 &555427751
 GameObject:
   m_ObjectHideFlags: 0
